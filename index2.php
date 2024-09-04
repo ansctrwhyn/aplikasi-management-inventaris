@@ -1,3 +1,3 @@
 <?php
-echo "ini coba commit server module auth";
+echo "ini coba commit client module auth";
 ?>
