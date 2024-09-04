@@ -1,3 +1,3 @@
 <?php
-echo "ini coba commit server";
+echo "ini coba commit client";
 ?>
